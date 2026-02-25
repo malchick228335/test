@@ -6,7 +6,7 @@ int main() {
     printf("Введите значение x: ");
     scanf("%d", &x);
 
-    y = x + 20;
+    y = (x + 20) * 2;
 
     printf("y = %d\n", y);
 
